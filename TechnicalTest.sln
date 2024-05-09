@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketBalancerProblem", "BracketBalancerProblem\BracketBalancerProblem.csproj", "{7BCDAD2E-B451-46E9-B866-05DDC2551BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumberProblem", "SingleNumberProblem\SingleNumberProblem.csproj", "{9DC30148-F2A2-4457-A6B4-004719ECE5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketBalancerProblemTests", "BracketBalancerProblemTests\BracketBalancerProblemTests.csproj", "{D29DEBA1-A16B-4CA6-A99A-08D08D5BBAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumberProblemTests", "SingleNumberProblemTests\SingleNumberProblemTests.csproj", "{7091D104-F723-4982-9ADE-4D2229B25755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCDAD2E-B451-46E9-B866-05DDC2551BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCDAD2E-B451-46E9-B866-05DDC2551BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCDAD2E-B451-46E9-B866-05DDC2551BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCDAD2E-B451-46E9-B866-05DDC2551BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC30148-F2A2-4457-A6B4-004719ECE5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC30148-F2A2-4457-A6B4-004719ECE5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC30148-F2A2-4457-A6B4-004719ECE5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC30148-F2A2-4457-A6B4-004719ECE5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29DEBA1-A16B-4CA6-A99A-08D08D5BBAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29DEBA1-A16B-4CA6-A99A-08D08D5BBAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29DEBA1-A16B-4CA6-A99A-08D08D5BBAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29DEBA1-A16B-4CA6-A99A-08D08D5BBAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7091D104-F723-4982-9ADE-4D2229B25755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7091D104-F723-4982-9ADE-4D2229B25755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7091D104-F723-4982-9ADE-4D2229B25755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7091D104-F723-4982-9ADE-4D2229B25755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
